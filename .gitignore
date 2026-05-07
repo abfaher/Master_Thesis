@@ -10,16 +10,27 @@ runs/
 experiments/
 **/experiments/
 
+# Analysis outputs / generated figures
+LateFusion/analysis_union_nms/
+LateFusion/pattern_outputs_nms/
+LateFusion/pattern_outputs_wbf/
+
+# Generated prediction/evaluation files
+LateFusion/M1_Union/llvip_test_gt_coco.json
+LateFusion/M1_Union/predictions_fused_union_nms.json
+LateFusion/M2_WBF/predictions_fused_wbf.json
+
 # Model weights
 *.pt
 *.pth
 *.onnx
+*.engine
 
 # Python cache
 __pycache__/
 *.pyc
 
-# System / editor files
+# Editor/system
 .vscode/
 .DS_Store
 
