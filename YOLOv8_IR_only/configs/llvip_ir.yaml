@@ -1,0 +1,7 @@
+path: /workspace/LLVIP
+
+train: /workspace/LLVIP/llvip_ir_train.txt
+val:   /workspace/LLVIP/llvip_ir_val.txt
+test:  /workspace/LLVIP/llvip_ir_test.txt
+names:
+  0: person

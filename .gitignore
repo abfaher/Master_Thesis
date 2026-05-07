@@ -1,0 +1,27 @@
+# Dataset
+LLVIP/
+*.zip
+*.tar
+*.tar.gz
+
+# Training outputs
+runs/
+**/runs/
+experiments/
+**/experiments/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System / editor files
+.vscode/
+.DS_Store
+
+# Logs
+*.log

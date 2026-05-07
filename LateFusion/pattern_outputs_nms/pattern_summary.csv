@@ -1,0 +1,26 @@
+pattern,rank,image_id,file_name,score,note,ir_tp,ir_fp,ir_fn,fusion_tp,fusion_fp,fusion_fn,num_gt,saved_path
+crowded_separation,1,190818,190818.jpg,13.2,"Crowded scene with 6 GTs. Fusion TP=6, IR TP=4.",4,1,2,6,1,0,6,/workspace/LateFusion/pattern_outputs_nms/crowded_separation/01_img190818.jpg
+crowded_separation,2,230095,230095.jpg,13.2,"Crowded scene with 6 GTs. Fusion TP=5, IR TP=3.",3,2,3,5,2,1,6,/workspace/LateFusion/pattern_outputs_nms/crowded_separation/02_img230095.jpg
+crowded_separation,3,190311,190311.jpg,8.2,"Crowded scene with 11 GTs. Fusion TP=9, IR TP=8.",8,1,3,9,1,2,11,/workspace/LateFusion/pattern_outputs_nms/crowded_separation/03_img190311.jpg
+crowded_separation,4,190335,190335.jpg,8.0,"Crowded scene with 10 GTs. Fusion TP=8, IR TP=7.",7,0,3,8,0,2,10,/workspace/LateFusion/pattern_outputs_nms/crowded_separation/04_img190335.jpg
+crowded_separation,5,190190,190190.jpg,7.6,"Crowded scene with 8 GTs. Fusion TP=8, IR TP=7.",7,0,1,8,0,0,8,/workspace/LateFusion/pattern_outputs_nms/crowded_separation/05_img190190.jpg
+recall_gain,1,220014,220014.jpg,11.5814,Fusion recovered 2 GT(s) missed by IR.,0,1,2,2,1,0,2,/workspace/LateFusion/pattern_outputs_nms/recall_gain/01_img220014.jpg
+recall_gain,2,220227,220227.jpg,11.4669,Fusion recovered 2 GT(s) missed by IR.,1,0,2,3,0,0,3,/workspace/LateFusion/pattern_outputs_nms/recall_gain/02_img220227.jpg
+recall_gain,3,230095,230095.jpg,11.4565,Fusion recovered 2 GT(s) missed by IR.,3,2,3,5,2,1,6,/workspace/LateFusion/pattern_outputs_nms/recall_gain/03_img230095.jpg
+recall_gain,4,240208,240208.jpg,11.4439,Fusion recovered 2 GT(s) missed by IR.,1,2,2,3,2,0,3,/workspace/LateFusion/pattern_outputs_nms/recall_gain/04_img240208.jpg
+recall_gain,5,200237,200237.jpg,11.1908,Fusion recovered 2 GT(s) missed by IR.,1,1,2,3,2,0,3,/workspace/LateFusion/pattern_outputs_nms/recall_gain/05_img200237.jpg
+fp_reduction,1,190509,190509.jpg,10.5,Fusion reduced FP count from 2 to 0.,5,2,0,5,0,0,5,/workspace/LateFusion/pattern_outputs_nms/fp_reduction/01_img190509.jpg
+fp_reduction,2,190071,190071.jpg,8.5,Fusion reduced FP count from 2 to 1.,10,2,0,9,1,1,10,/workspace/LateFusion/pattern_outputs_nms/fp_reduction/02_img190071.jpg
+fp_reduction,3,190210,190210.jpg,7.5,Fusion reduced FP count from 2 to 1.,6,2,2,7,1,1,8,/workspace/LateFusion/pattern_outputs_nms/fp_reduction/03_img190210.jpg
+fp_reduction,4,190511,190511.jpg,7.5,Fusion reduced FP count from 2 to 1.,7,2,0,7,1,0,7,/workspace/LateFusion/pattern_outputs_nms/fp_reduction/04_img190511.jpg
+fp_reduction,5,190063,190063.jpg,6.5,Fusion reduced FP count from 1 to 0.,5,1,0,5,0,0,5,/workspace/LateFusion/pattern_outputs_nms/fp_reduction/05_img190063.jpg
+better_localization,1,220323,220323.jpg,10.5543,Fusion improved IoU on 2 GT(s).,3,1,0,3,1,0,3,/workspace/LateFusion/pattern_outputs_nms/better_localization/01_img220323.jpg
+better_localization,2,210385,210385.jpg,10.3127,Fusion improved IoU on 2 GT(s).,4,3,0,4,2,0,4,/workspace/LateFusion/pattern_outputs_nms/better_localization/02_img210385.jpg
+better_localization,3,210310,210310.jpg,9.5976,Fusion improved IoU on 2 GT(s).,4,2,0,4,1,0,4,/workspace/LateFusion/pattern_outputs_nms/better_localization/03_img210310.jpg
+better_localization,4,210297,210297.jpg,9.5492,Fusion improved IoU on 2 GT(s).,4,0,0,4,0,0,4,/workspace/LateFusion/pattern_outputs_nms/better_localization/04_img210297.jpg
+better_localization,5,210259,210259.jpg,9.4537,Fusion improved IoU on 2 GT(s).,5,1,1,6,1,0,6,/workspace/LateFusion/pattern_outputs_nms/better_localization/05_img210259.jpg
+stronger_confidence,1,220150,220150.jpg,8.1714,Fusion confidence improved on 2 GT(s).,5,1,0,5,1,0,5,/workspace/LateFusion/pattern_outputs_nms/stronger_confidence/01_img220150.jpg
+stronger_confidence,2,210123,210123.jpg,7.4949,Fusion confidence improved on 2 GT(s).,4,1,1,5,0,0,5,/workspace/LateFusion/pattern_outputs_nms/stronger_confidence/02_img210123.jpg
+stronger_confidence,3,230143,230143.jpg,7.1197,Fusion confidence improved on 2 GT(s).,6,0,0,6,2,0,6,/workspace/LateFusion/pattern_outputs_nms/stronger_confidence/03_img230143.jpg
+stronger_confidence,4,210216,210216.jpg,6.9973,Fusion confidence improved on 2 GT(s).,6,2,2,7,3,1,8,/workspace/LateFusion/pattern_outputs_nms/stronger_confidence/04_img210216.jpg
+stronger_confidence,5,220176,220176.jpg,6.9178,Fusion confidence improved on 2 GT(s).,5,2,0,5,2,0,5,/workspace/LateFusion/pattern_outputs_nms/stronger_confidence/05_img220176.jpg

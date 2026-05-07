@@ -1,0 +1,8 @@
+path: /workspace/LLVIP
+
+train: /workspace/LLVIP/llvip_fused_alpha_04_train.txt
+val: /workspace/LLVIP/llvip_fused_alpha_04_val.txt
+test: /workspace/LLVIP/llvip_fused_alpha_04_test.txt
+
+names:
+  0: person

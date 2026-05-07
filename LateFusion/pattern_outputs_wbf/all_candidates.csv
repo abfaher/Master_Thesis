@@ -1,0 +1,442 @@
+pattern,image_id,file_name,score,note,ir_tp,ir_fp,ir_fn,fusion_tp,fusion_fp,fusion_fn,num_gt
+better_localization,220323,220323.jpg,8.164654129827891,Fusion improved IoU on 2 GT(s).,3,1,0,3,1,0,3
+better_localization,210123,210123.jpg,8.058605573592693,Fusion improved IoU on 2 GT(s).,4,1,1,5,0,0,5
+better_localization,190500,190500.jpg,6.13536444674658,Fusion improved IoU on 1 GT(s).,6,1,0,6,2,0,6
+better_localization,210213,210213.jpg,5.892314589475338,Fusion improved IoU on 1 GT(s).,4,0,0,4,1,0,4
+better_localization,210198,210198.jpg,5.754639357963918,Fusion improved IoU on 1 GT(s).,4,1,0,4,2,0,4
+better_localization,210307,210307.jpg,5.4217158063418225,Fusion improved IoU on 1 GT(s).,2,0,0,2,1,0,2
+better_localization,230369,230369.jpg,5.396316402128653,Fusion improved IoU on 1 GT(s).,2,0,1,2,1,1,3
+better_localization,210135,210135.jpg,5.3773395423043775,Fusion improved IoU on 1 GT(s).,6,0,0,6,1,0,6
+better_localization,230046,230046.jpg,5.365976014616184,Fusion improved IoU on 1 GT(s).,3,1,0,3,1,0,3
+better_localization,230407,230407.jpg,5.32549840915447,Fusion improved IoU on 1 GT(s).,3,0,0,3,1,0,3
+better_localization,230190,230190.jpg,5.13914140273994,Fusion improved IoU on 1 GT(s).,2,1,0,2,3,0,2
+better_localization,220186,220186.jpg,5.071386141428589,Fusion improved IoU on 1 GT(s).,3,0,1,4,1,0,4
+better_localization,190069,190069.jpg,5.06713792081996,Fusion improved IoU on 1 GT(s).,9,4,0,9,3,0,9
+better_localization,230326,230326.jpg,5.016019320320303,Fusion improved IoU on 1 GT(s).,4,0,0,4,1,0,4
+better_localization,230298,230298.jpg,4.953209656891632,Fusion improved IoU on 1 GT(s).,2,1,0,2,0,0,2
+better_localization,210028,210028.jpg,4.936311319655997,Fusion improved IoU on 1 GT(s).,1,0,0,1,2,0,1
+better_localization,190513,190513.jpg,4.830265919922479,Fusion improved IoU on 1 GT(s).,4,1,0,4,1,0,4
+better_localization,230422,230422.jpg,4.801549368899053,Fusion improved IoU on 1 GT(s).,3,1,0,3,2,0,3
+better_localization,260357,260357.jpg,4.774603021962099,Fusion improved IoU on 1 GT(s).,3,0,0,3,1,0,3
+better_localization,240145,240145.jpg,4.51467140530103,Fusion improved IoU on 1 GT(s).,2,0,0,2,0,0,2
+better_localization,200160,200160.jpg,4.514422035850625,Fusion improved IoU on 1 GT(s).,3,1,1,4,2,0,4
+better_localization,200271,200271.jpg,4.5062863939945785,Fusion improved IoU on 1 GT(s).,3,1,0,3,1,0,3
+better_localization,210157,210157.jpg,4.47425767073588,Fusion improved IoU on 1 GT(s).,2,0,1,2,0,1,3
+better_localization,230399,230399.jpg,4.474236906326096,Fusion improved IoU on 1 GT(s).,4,2,0,4,1,0,4
+better_localization,190071,190071.jpg,4.428337916959277,Fusion improved IoU on 1 GT(s).,10,2,0,10,0,0,10
+better_localization,200146,200146.jpg,4.400525748764646,Fusion improved IoU on 1 GT(s).,2,0,0,2,1,0,2
+better_localization,230109,230109.jpg,4.391159339717168,Fusion improved IoU on 1 GT(s).,4,0,0,4,0,0,4
+better_localization,230187,230187.jpg,4.38685957646035,Fusion improved IoU on 1 GT(s).,1,1,0,1,1,0,1
+better_localization,190396,190396.jpg,4.34953645717705,Fusion improved IoU on 1 GT(s).,3,1,0,3,1,0,3
+better_localization,200281,200281.jpg,4.3464785501364265,Fusion improved IoU on 1 GT(s).,3,0,0,3,2,0,3
+better_localization,220017,220017.jpg,4.339817332627612,Fusion improved IoU on 1 GT(s).,2,0,0,2,0,0,2
+better_localization,230015,230015.jpg,4.327591599297029,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,230175,230175.jpg,4.325311969040399,Fusion improved IoU on 1 GT(s).,1,0,0,1,0,0,1
+better_localization,190101,190101.jpg,4.304192495528801,Fusion improved IoU on 1 GT(s).,3,0,0,3,1,0,3
+better_localization,220202,220202.jpg,4.299209532911135,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,260455,260455.jpg,4.296985121237957,Fusion improved IoU on 1 GT(s).,2,1,0,2,1,0,2
+better_localization,190382,190382.jpg,4.2956991314082265,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,190729,190729.jpg,4.290600599204392,Fusion improved IoU on 1 GT(s).,5,0,0,5,1,0,5
+better_localization,190006,190006.jpg,4.283722207797649,Fusion improved IoU on 1 GT(s).,5,0,1,5,0,1,6
+better_localization,260177,260177.jpg,4.279668897218604,Fusion improved IoU on 1 GT(s).,3,1,0,3,2,0,3
+better_localization,230358,230358.jpg,4.2760679550534695,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,200059,200059.jpg,4.275868148860685,Fusion improved IoU on 1 GT(s).,3,0,0,3,1,0,3
+better_localization,220073,220073.jpg,4.248209493999072,Fusion improved IoU on 1 GT(s).,2,0,0,2,0,0,2
+better_localization,190399,190399.jpg,4.244474445052429,Fusion improved IoU on 1 GT(s).,4,0,0,3,0,1,4
+better_localization,220379,220379.jpg,4.241765081806986,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,230044,230044.jpg,4.23235587649034,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,210255,210255.jpg,4.217068055300819,Fusion improved IoU on 1 GT(s).,2,1,0,2,2,0,2
+better_localization,220248,220248.jpg,4.216981121771327,Fusion improved IoU on 1 GT(s).,5,0,0,5,0,0,5
+better_localization,210341,210341.jpg,4.2156541206056035,Fusion improved IoU on 1 GT(s).,2,1,1,2,0,1,3
+better_localization,200056,200056.jpg,4.214349362657544,Fusion improved IoU on 1 GT(s).,3,0,0,3,3,0,3
+better_localization,240405,240405.jpg,4.204750570855696,Fusion improved IoU on 1 GT(s).,1,1,0,1,0,0,1
+better_localization,190576,190576.jpg,4.19501591550584,Fusion improved IoU on 1 GT(s).,7,0,0,5,0,2,7
+better_localization,230389,230389.jpg,4.191559172638978,Fusion improved IoU on 1 GT(s).,4,2,0,4,0,0,4
+better_localization,230170,230170.jpg,4.185191135664843,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,230278,230278.jpg,4.184829258764846,Fusion improved IoU on 1 GT(s).,3,1,0,3,1,0,3
+better_localization,240086,240086.jpg,4.163341792548746,Fusion improved IoU on 1 GT(s).,2,0,0,2,0,0,2
+better_localization,210284,210284.jpg,4.15389805755703,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,190118,190118.jpg,4.153894015725506,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,210256,210256.jpg,4.151642768644442,Fusion improved IoU on 1 GT(s).,7,0,0,7,0,0,7
+better_localization,230013,230013.jpg,4.148877399208446,Fusion improved IoU on 1 GT(s).,1,1,0,1,2,0,1
+better_localization,220129,220129.jpg,4.130181089521285,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,240416,240416.jpg,4.128076506683261,Fusion improved IoU on 1 GT(s).,2,0,0,2,0,0,2
+better_localization,190146,190146.jpg,4.125120906208381,Fusion improved IoU on 1 GT(s).,6,0,0,5,0,1,6
+better_localization,190078,190078.jpg,4.099983829750366,Fusion improved IoU on 1 GT(s).,3,0,0,3,1,0,3
+better_localization,240324,240324.jpg,4.09859521432294,Fusion improved IoU on 1 GT(s).,1,0,0,1,2,0,1
+better_localization,230030,230030.jpg,4.096527926444929,Fusion improved IoU on 1 GT(s).,1,0,0,1,0,0,1
+better_localization,230083,230083.jpg,4.090887031109599,Fusion improved IoU on 1 GT(s).,2,0,0,2,0,0,2
+better_localization,230141,230141.jpg,4.085497825693452,Fusion improved IoU on 1 GT(s).,3,0,1,3,0,1,4
+better_localization,230022,230022.jpg,4.083456213784083,Fusion improved IoU on 1 GT(s).,2,0,0,2,0,0,2
+better_localization,190818,190818.jpg,4.077638837148022,Fusion improved IoU on 1 GT(s).,4,1,2,5,1,1,6
+better_localization,230377,230377.jpg,4.07475589861319,Fusion improved IoU on 1 GT(s).,1,1,0,1,0,0,1
+better_localization,190515,190515.jpg,4.074267392685629,Fusion improved IoU on 1 GT(s).,4,0,0,4,0,0,4
+better_localization,210090,210090.jpg,4.068317017888345,Fusion improved IoU on 1 GT(s).,4,0,0,4,0,0,4
+better_localization,260452,260452.jpg,4.067047906365896,Fusion improved IoU on 1 GT(s).,3,0,0,3,0,0,3
+better_localization,220150,220150.jpg,4.054478230047473,Fusion improved IoU on 1 GT(s).,5,1,0,5,1,0,5
+better_localization,200314,200314.jpg,4.050529391008972,Fusion improved IoU on 1 GT(s).,1,0,0,1,1,0,1
+better_localization,220075,220075.jpg,4.0502357811064575,Fusion improved IoU on 1 GT(s).,2,0,0,2,0,0,2
+better_localization,240211,240211.jpg,4.0495800311267525,Fusion improved IoU on 1 GT(s).,2,0,0,1,0,1,2
+better_localization,230255,230255.jpg,4.038758527676133,Fusion improved IoU on 1 GT(s).,4,0,0,4,1,0,4
+better_localization,230043,230043.jpg,4.0369447243072605,Fusion improved IoU on 1 GT(s).,2,0,0,2,0,0,2
+better_localization,200313,200313.jpg,4.03678739123199,Fusion improved IoU on 1 GT(s).,2,0,0,2,2,0,2
+better_localization,230455,230455.jpg,4.027126772028451,Fusion improved IoU on 1 GT(s).,4,0,0,4,0,0,4
+better_localization,230438,230438.jpg,4.0254881729874015,Fusion improved IoU on 1 GT(s).,1,0,0,1,0,0,1
+better_localization,230396,230396.jpg,4.0236808843435306,Fusion improved IoU on 1 GT(s).,2,0,0,2,0,0,2
+better_localization,230246,230246.jpg,4.022461811958028,Fusion improved IoU on 1 GT(s).,1,0,0,1,0,0,1
+better_localization,220074,220074.jpg,4.020609269832065,Fusion improved IoU on 1 GT(s).,5,1,0,5,1,0,5
+better_localization,260079,260079.jpg,4.017079268841626,Fusion improved IoU on 1 GT(s).,2,0,0,2,2,0,2
+better_localization,210120,210120.jpg,4.016806650678605,Fusion improved IoU on 1 GT(s).,2,0,1,2,0,1,3
+better_localization,200116,200116.jpg,4.01585606438589,Fusion improved IoU on 1 GT(s).,2,0,0,2,1,0,2
+better_localization,190123,190123.jpg,4.0132311538269665,Fusion improved IoU on 1 GT(s).,5,1,0,5,2,0,5
+better_localization,220279,220279.jpg,4.001090974754296,Fusion improved IoU on 1 GT(s).,4,0,0,4,0,0,4
+crowded_separation,190311,190311.jpg,14.2,"Crowded scene with 11 GTs. Fusion TP=10, IR TP=8.",8,1,3,10,0,1,11
+crowded_separation,230095,230095.jpg,13.2,"Crowded scene with 6 GTs. Fusion TP=5, IR TP=3.",3,2,3,5,2,1,6
+crowded_separation,220096,220096.jpg,7.8,"Crowded scene with 9 GTs. Fusion TP=9, IR TP=8.",8,1,1,9,1,0,9
+crowded_separation,190190,190190.jpg,7.6,"Crowded scene with 8 GTs. Fusion TP=8, IR TP=7.",7,0,1,8,0,0,8
+crowded_separation,190210,190210.jpg,7.6,"Crowded scene with 8 GTs. Fusion TP=7, IR TP=6.",6,2,2,7,1,1,8
+crowded_separation,220120,220120.jpg,7.6,"Crowded scene with 8 GTs. Fusion TP=8, IR TP=7.",7,0,1,8,0,0,8
+crowded_separation,230280,230280.jpg,7.4,"Crowded scene with 7 GTs. Fusion TP=6, IR TP=5.",5,0,2,6,0,1,7
+crowded_separation,190710,190710.jpg,7.2,"Crowded scene with 6 GTs. Fusion TP=6, IR TP=5.",5,0,1,6,0,0,6
+crowded_separation,190730,190730.jpg,7.2,"Crowded scene with 6 GTs. Fusion TP=6, IR TP=5.",5,0,1,6,0,0,6
+crowded_separation,190818,190818.jpg,7.2,"Crowded scene with 6 GTs. Fusion TP=5, IR TP=4.",4,1,2,5,1,1,6
+crowded_separation,190822,190822.jpg,7.2,"Crowded scene with 6 GTs. Fusion TP=6, IR TP=5.",5,0,1,6,0,0,6
+crowded_separation,210209,210209.jpg,7.2,"Crowded scene with 6 GTs. Fusion TP=6, IR TP=5.",5,0,1,6,0,0,6
+crowded_separation,210386,210386.jpg,7.2,"Crowded scene with 6 GTs. Fusion TP=6, IR TP=5.",5,0,1,6,0,0,6
+crowded_separation,210415,210415.jpg,7.2,"Crowded scene with 6 GTs. Fusion TP=6, IR TP=5.",5,1,1,6,1,0,6
+crowded_separation,220312,220312.jpg,7.2,"Crowded scene with 6 GTs. Fusion TP=6, IR TP=5.",5,1,1,6,1,0,6
+crowded_separation,230038,230038.jpg,7.2,"Crowded scene with 6 GTs. Fusion TP=6, IR TP=5.",5,1,1,6,1,0,6
+crowded_separation,190470,190470.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=5, IR TP=4.",4,0,1,5,0,0,5
+crowded_separation,210043,210043.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=5, IR TP=4.",4,0,1,5,0,0,5
+crowded_separation,210123,210123.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=5, IR TP=4.",4,1,1,5,0,0,5
+crowded_separation,210200,210200.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=5, IR TP=4.",4,0,1,5,0,0,5
+crowded_separation,210402,210402.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=5, IR TP=4.",4,1,1,5,0,0,5
+crowded_separation,220213,220213.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=4, IR TP=3.",3,1,2,4,0,1,5
+crowded_separation,220324,220324.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=5, IR TP=4.",4,1,1,5,1,0,5
+crowded_separation,220360,220360.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=4, IR TP=3.",3,1,2,4,0,1,5
+crowded_separation,230118,230118.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=5, IR TP=4.",4,1,1,5,1,0,5
+crowded_separation,230354,230354.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=5, IR TP=4.",4,1,1,5,0,0,5
+crowded_separation,260361,260361.jpg,7.0,"Crowded scene with 5 GTs. Fusion TP=5, IR TP=4.",4,0,1,5,0,0,5
+crowded_separation,190112,190112.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,0,1,4,0,0,4
+crowded_separation,210011,210011.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=3, IR TP=2.",2,0,2,3,0,1,4
+crowded_separation,210106,210106.jpg,6.8,"Crowded scene with 9 GTs. Fusion TP=6, IR TP=5.",5,0,4,6,2,3,9
+crowded_separation,210239,210239.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,1,1,4,1,0,4
+crowded_separation,220087,220087.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=3, IR TP=2.",2,1,2,3,1,1,4
+crowded_separation,220102,220102.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,1,1,4,0,0,4
+crowded_separation,220193,220193.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,0,1,4,0,0,4
+crowded_separation,220259,220259.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=3, IR TP=2.",2,1,2,3,1,1,4
+crowded_separation,220361,220361.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,0,1,4,0,0,4
+crowded_separation,230418,230418.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,1,1,4,0,0,4
+crowded_separation,240092,240092.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,0,1,4,0,0,4
+crowded_separation,240491,240491.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=3, IR TP=2.",2,0,2,3,0,1,4
+crowded_separation,260019,260019.jpg,6.8,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,1,1,4,1,0,4
+crowded_separation,200242,200242.jpg,6.7,"Crowded scene with 6 GTs. Fusion TP=5, IR TP=4.",4,0,2,5,1,1,6
+crowded_separation,210336,210336.jpg,6.7,"Crowded scene with 6 GTs. Fusion TP=6, IR TP=5.",5,0,1,6,1,0,6
+crowded_separation,230048,230048.jpg,6.7,"Crowded scene with 6 GTs. Fusion TP=5, IR TP=4.",4,1,2,5,2,1,6
+crowded_separation,260438,260438.jpg,6.5,"Crowded scene with 5 GTs. Fusion TP=4, IR TP=3.",3,0,2,4,1,1,5
+crowded_separation,190183,190183.jpg,6.3,"Crowded scene with 4 GTs. Fusion TP=3, IR TP=2.",2,1,2,3,2,1,4
+crowded_separation,200160,200160.jpg,6.3,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,1,1,4,2,0,4
+crowded_separation,220055,220055.jpg,6.3,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,0,1,4,1,0,4
+crowded_separation,220186,220186.jpg,6.3,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,0,1,4,1,0,4
+crowded_separation,240342,240342.jpg,6.3,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,1,1,4,2,0,4
+crowded_separation,260272,260272.jpg,6.3,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,1,1,4,2,0,4
+crowded_separation,200029,200029.jpg,6.0,"Crowded scene with 5 GTs. Fusion TP=5, IR TP=4.",4,0,1,5,2,0,5
+crowded_separation,240126,240126.jpg,5.3,"Crowded scene with 4 GTs. Fusion TP=4, IR TP=3.",3,0,1,4,3,0,4
+crowded_separation,200139,200139.jpg,5.2,"Crowded scene with 6 GTs. Fusion TP=5, IR TP=4.",4,1,2,5,5,1,6
+fp_reduction,190071,190071.jpg,13.0,Fusion reduced FP count from 2 to 0.,10,2,0,10,0,0,10
+fp_reduction,190061,190061.jpg,11.5,Fusion reduced FP count from 2 to 0.,7,2,1,7,0,1,8
+fp_reduction,190509,190509.jpg,10.5,Fusion reduced FP count from 2 to 0.,5,2,0,5,0,0,5
+fp_reduction,210313,210313.jpg,10.0,Fusion reduced FP count from 2 to 0.,4,2,0,4,0,0,4
+fp_reduction,230389,230389.jpg,10.0,Fusion reduced FP count from 2 to 0.,4,2,0,4,0,0,4
+fp_reduction,190311,190311.jpg,9.0,Fusion reduced FP count from 1 to 0.,8,1,3,10,0,1,11
+fp_reduction,190424,190424.jpg,9.0,Fusion reduced FP count from 2 to 0.,2,2,0,2,0,0,2
+fp_reduction,260500,260500.jpg,9.0,Fusion reduced FP count from 2 to 0.,2,2,2,2,0,2,4
+fp_reduction,190069,190069.jpg,8.5,Fusion reduced FP count from 4 to 3.,9,4,0,9,3,0,9
+fp_reduction,190210,190210.jpg,7.5,Fusion reduced FP count from 2 to 1.,6,2,2,7,1,1,8
+fp_reduction,190431,190431.jpg,7.5,Fusion reduced FP count from 1 to 0.,7,1,0,7,0,0,7
+fp_reduction,190439,190439.jpg,7.5,Fusion reduced FP count from 1 to 0.,7,1,0,7,0,0,7
+fp_reduction,190721,190721.jpg,7.5,Fusion reduced FP count from 1 to 0.,7,1,0,7,0,0,7
+fp_reduction,210058,210058.jpg,7.5,Fusion reduced FP count from 2 to 1.,7,2,2,7,1,2,9
+fp_reduction,260363,260363.jpg,7.5,Fusion reduced FP count from 2 to 1.,7,2,1,7,1,1,8
+fp_reduction,190511,190511.jpg,7.0,Fusion reduced FP count from 2 to 1.,7,2,0,6,1,1,7
+fp_reduction,190676,190676.jpg,7.0,Fusion reduced FP count from 1 to 0.,7,1,1,6,0,2,8
+fp_reduction,210216,210216.jpg,7.0,Fusion reduced FP count from 2 to 1.,6,2,2,6,1,2,8
+fp_reduction,220174,220174.jpg,7.0,Fusion reduced FP count from 1 to 0.,6,1,1,6,0,1,7
+fp_reduction,220372,220372.jpg,7.0,Fusion reduced FP count from 1 to 0.,6,1,0,6,0,0,6
+fp_reduction,190063,190063.jpg,6.5,Fusion reduced FP count from 1 to 0.,5,1,0,5,0,0,5
+fp_reduction,190287,190287.jpg,6.5,Fusion reduced FP count from 2 to 1.,5,2,1,5,1,1,6
+fp_reduction,190387,190387.jpg,6.5,Fusion reduced FP count from 1 to 0.,5,1,0,5,0,0,5
+fp_reduction,190504,190504.jpg,6.5,Fusion reduced FP count from 1 to 0.,5,1,0,5,0,0,5
+fp_reduction,210123,210123.jpg,6.5,Fusion reduced FP count from 1 to 0.,4,1,1,5,0,0,5
+fp_reduction,210259,210259.jpg,6.5,Fusion reduced FP count from 1 to 0.,5,1,1,5,0,1,6
+fp_reduction,210376,210376.jpg,6.5,Fusion reduced FP count from 2 to 1.,5,2,0,5,1,0,5
+fp_reduction,210402,210402.jpg,6.5,Fusion reduced FP count from 1 to 0.,4,1,1,5,0,0,5
+fp_reduction,220176,220176.jpg,6.5,Fusion reduced FP count from 2 to 1.,5,2,0,5,1,0,5
+fp_reduction,230354,230354.jpg,6.5,Fusion reduced FP count from 1 to 0.,4,1,1,5,0,0,5
+fp_reduction,240093,240093.jpg,6.5,Fusion reduced FP count from 1 to 0.,5,1,0,5,0,0,5
+fp_reduction,260160,260160.jpg,6.5,Fusion reduced FP count from 3 to 2.,5,3,0,5,2,0,5
+fp_reduction,190605,190605.jpg,6.0,Fusion reduced FP count from 1 to 0.,5,1,1,4,0,2,6
+fp_reduction,190751,190751.jpg,6.0,Fusion reduced FP count from 1 to 0.,4,1,0,4,0,0,4
+fp_reduction,210008,210008.jpg,6.0,Fusion reduced FP count from 1 to 0.,4,1,0,4,0,0,4
+fp_reduction,210089,210089.jpg,6.0,Fusion reduced FP count from 1 to 0.,4,1,1,4,0,1,5
+fp_reduction,210283,210283.jpg,6.0,Fusion reduced FP count from 1 to 0.,4,1,0,4,0,0,4
+fp_reduction,210310,210310.jpg,6.0,Fusion reduced FP count from 2 to 1.,4,2,0,4,1,0,4
+fp_reduction,210385,210385.jpg,6.0,Fusion reduced FP count from 3 to 2.,4,3,0,4,2,0,4
+fp_reduction,220102,220102.jpg,6.0,Fusion reduced FP count from 1 to 0.,3,1,1,4,0,0,4
+fp_reduction,220184,220184.jpg,6.0,Fusion reduced FP count from 1 to 0.,4,1,0,4,0,0,4
+fp_reduction,220213,220213.jpg,6.0,Fusion reduced FP count from 1 to 0.,3,1,2,4,0,1,5
+fp_reduction,220318,220318.jpg,6.0,Fusion reduced FP count from 2 to 1.,4,2,1,4,1,1,5
+fp_reduction,220360,220360.jpg,6.0,Fusion reduced FP count from 1 to 0.,3,1,2,4,0,1,5
+fp_reduction,230374,230374.jpg,6.0,Fusion reduced FP count from 1 to 0.,4,1,0,4,0,0,4
+fp_reduction,230399,230399.jpg,6.0,Fusion reduced FP count from 2 to 1.,4,2,0,4,1,0,4
+fp_reduction,230418,230418.jpg,6.0,Fusion reduced FP count from 1 to 0.,3,1,1,4,0,0,4
+fp_reduction,230437,230437.jpg,6.0,Fusion reduced FP count from 1 to 0.,4,1,0,4,0,0,4
+fp_reduction,230461,230461.jpg,6.0,Fusion reduced FP count from 1 to 0.,4,1,0,4,0,0,4
+fp_reduction,200086,200086.jpg,5.5,Fusion reduced FP count from 4 to 3.,3,4,1,3,3,1,4
+fp_reduction,210112,210112.jpg,5.5,Fusion reduced FP count from 1 to 0.,2,1,1,3,0,0,3
+fp_reduction,210127,210127.jpg,5.5,Fusion reduced FP count from 1 to 0.,2,1,1,3,0,0,3
+fp_reduction,210265,210265.jpg,5.5,Fusion reduced FP count from 1 to 0.,3,1,1,3,0,1,4
+fp_reduction,210374,210374.jpg,5.5,Fusion reduced FP count from 1 to 0.,2,1,1,3,0,0,3
+fp_reduction,220060,220060.jpg,5.5,Fusion reduced FP count from 2 to 1.,3,2,0,3,1,0,3
+fp_reduction,220156,220156.jpg,5.5,Fusion reduced FP count from 1 to 0.,2,1,1,3,0,0,3
+fp_reduction,220209,220209.jpg,5.5,Fusion reduced FP count from 1 to 0.,3,1,0,3,0,0,3
+fp_reduction,230055,230055.jpg,5.5,Fusion reduced FP count from 1 to 0.,3,1,1,3,0,1,4
+fp_reduction,230089,230089.jpg,5.5,Fusion reduced FP count from 1 to 0.,2,1,1,3,0,0,3
+fp_reduction,230431,230431.jpg,5.5,Fusion reduced FP count from 1 to 0.,3,1,1,3,0,1,4
+fp_reduction,240079,240079.jpg,5.5,Fusion reduced FP count from 1 to 0.,1,1,2,3,0,0,3
+fp_reduction,240152,240152.jpg,5.5,Fusion reduced FP count from 2 to 1.,3,2,0,3,1,0,3
+fp_reduction,240220,240220.jpg,5.5,Fusion reduced FP count from 1 to 0.,3,1,1,3,0,1,4
+fp_reduction,240467,240467.jpg,5.5,Fusion reduced FP count from 1 to 0.,3,1,0,3,0,0,3
+fp_reduction,260332,260332.jpg,5.5,Fusion reduced FP count from 1 to 0.,2,1,1,3,0,0,3
+fp_reduction,260418,260418.jpg,5.5,Fusion reduced FP count from 1 to 0.,4,1,0,3,0,1,4
+fp_reduction,190029,190029.jpg,5.0,Fusion reduced FP count from 1 to 0.,3,1,1,2,0,2,4
+fp_reduction,190050,190050.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,0,2,0,0,2
+fp_reduction,200293,200293.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,0,2,0,0,2
+fp_reduction,200310,200310.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,0,2,0,0,2
+fp_reduction,210098,210098.jpg,5.0,Fusion reduced FP count from 1 to 0.,1,1,2,2,0,1,3
+fp_reduction,210207,210207.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,2,2,0,2,4
+fp_reduction,210262,210262.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,0,2,0,0,2
+fp_reduction,210264,210264.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,0,2,0,0,2
+fp_reduction,210341,210341.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,1,2,0,1,3
+fp_reduction,210378,210378.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,1,2,0,1,3
+fp_reduction,220021,220021.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,1,2,0,1,3
+fp_reduction,220285,220285.jpg,5.0,Fusion reduced FP count from 2 to 1.,2,2,1,2,1,1,3
+fp_reduction,220359,220359.jpg,5.0,Fusion reduced FP count from 3 to 2.,2,3,1,2,2,1,3
+fp_reduction,220371,220371.jpg,5.0,Fusion reduced FP count from 2 to 1.,2,2,0,2,1,0,2
+fp_reduction,230068,230068.jpg,5.0,Fusion reduced FP count from 1 to 0.,1,1,1,2,0,0,2
+fp_reduction,230298,230298.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,0,2,0,0,2
+fp_reduction,230466,230466.jpg,5.0,Fusion reduced FP count from 1 to 0.,1,1,2,2,0,1,3
+fp_reduction,240045,240045.jpg,5.0,Fusion reduced FP count from 1 to 0.,0,1,2,2,0,0,2
+fp_reduction,240193,240193.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,1,2,0,1,3
+fp_reduction,240217,240217.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,0,2,0,0,2
+fp_reduction,240286,240286.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,0,2,0,0,2
+fp_reduction,240334,240334.jpg,5.0,Fusion reduced FP count from 1 to 0.,2,1,2,2,0,2,4
+fp_reduction,260326,260326.jpg,5.0,Fusion reduced FP count from 2 to 1.,2,2,0,2,1,0,2
+fp_reduction,210057,210057.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,2,1,0,2,3
+fp_reduction,210331,210331.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,1,1,0,1,2
+fp_reduction,220105,220105.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,0,1,0,0,1
+fp_reduction,220199,220199.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,0,1,0,0,1
+fp_reduction,220305,220305.jpg,4.5,Fusion reduced FP count from 3 to 2.,1,3,1,1,2,1,2
+fp_reduction,220333,220333.jpg,4.5,Fusion reduced FP count from 1 to 0.,0,1,1,1,0,0,1
+fp_reduction,230284,230284.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,0,1,0,0,1
+fp_reduction,230304,230304.jpg,4.5,Fusion reduced FP count from 1 to 0.,0,1,1,1,0,0,1
+fp_reduction,230377,230377.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,0,1,0,0,1
+fp_reduction,230429,230429.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,0,1,0,0,1
+fp_reduction,240021,240021.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,0,1,0,0,1
+fp_reduction,240300,240300.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,0,1,0,0,1
+fp_reduction,240341,240341.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,2,1,0,2,3
+fp_reduction,240364,240364.jpg,4.5,Fusion reduced FP count from 1 to 0.,0,1,1,1,0,0,1
+fp_reduction,240405,240405.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,0,1,0,0,1
+fp_reduction,240439,240439.jpg,4.5,Fusion reduced FP count from 1 to 0.,1,1,0,1,0,0,1
+fp_reduction,220221,220221.jpg,4.0,Fusion reduced FP count from 3 to 2.,0,3,1,0,2,1,1
+fp_reduction,220286,220286.jpg,4.0,Fusion reduced FP count from 2 to 1.,0,2,1,0,1,1,1
+fp_reduction,260312,260312.jpg,4.0,Fusion reduced FP count from 1 to 0.,0,1,3,0,0,3,3
+recall_gain,220014,220014.jpg,11.5003,Fusion recovered 2 GT(s) missed by IR.,0,1,2,2,1,0,2
+recall_gain,240208,240208.jpg,11.44388,Fusion recovered 2 GT(s) missed by IR.,1,2,2,3,2,0,3
+recall_gain,190311,190311.jpg,11.21074,Fusion recovered 2 GT(s) missed by IR.,8,1,3,10,0,1,11
+recall_gain,240079,240079.jpg,10.998477857142857,Fusion recovered 2 GT(s) missed by IR.,1,1,2,3,0,0,3
+recall_gain,200209,200209.jpg,10.873216666666666,Fusion recovered 2 GT(s) missed by IR.,1,0,2,3,0,0,3
+recall_gain,220227,220227.jpg,10.667284285714286,Fusion recovered 2 GT(s) missed by IR.,1,0,2,3,0,0,3
+recall_gain,240045,240045.jpg,10.579121428571428,Fusion recovered 2 GT(s) missed by IR.,0,1,2,2,0,0,2
+recall_gain,230095,230095.jpg,10.538711587301588,Fusion recovered 2 GT(s) missed by IR.,3,2,3,5,2,1,6
+recall_gain,200167,200167.jpg,5.86206,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,2,0,3
+recall_gain,200247,200247.jpg,5.85375,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,260361,260361.jpg,5.85267,Fusion recovered 1 GT(s) missed by IR.,4,0,1,5,0,0,5
+recall_gain,230380,230380.jpg,5.84391,Fusion recovered 1 GT(s) missed by IR.,0,1,1,1,1,0,1
+recall_gain,260287,260287.jpg,5.8426,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,2,0,2
+recall_gain,200141,200141.jpg,5.83612,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,200157,200157.jpg,5.83516,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,1,0,3
+recall_gain,200170,200170.jpg,5.83261,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,260210,260210.jpg,5.8311399999999995,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,260449,260449.jpg,5.83072,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,200296,200296.jpg,5.83025,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,200165,200165.jpg,5.82972,Fusion recovered 1 GT(s) missed by IR.,0,0,1,1,2,0,1
+recall_gain,200276,200276.jpg,5.82766,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,200306,200306.jpg,5.8269,Fusion recovered 1 GT(s) missed by IR.,2,1,1,3,2,0,3
+recall_gain,200096,200096.jpg,5.82311,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,260170,260170.jpg,5.82293,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,200090,200090.jpg,5.8227400000000005,Fusion recovered 1 GT(s) missed by IR.,2,3,1,3,6,0,3
+recall_gain,200053,200053.jpg,5.82185,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,200025,200025.jpg,5.82146,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,260018,260018.jpg,5.81623,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,3,0,2
+recall_gain,260088,260088.jpg,5.81578,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,200270,200270.jpg,5.81464,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,2,0,2
+recall_gain,260409,260409.jpg,5.81188,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,1,0,2
+recall_gain,240421,240421.jpg,5.8070699999999995,Fusion recovered 1 GT(s) missed by IR.,0,0,1,1,0,0,1
+recall_gain,260145,260145.jpg,5.80658,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,210129,210129.jpg,5.80581,Fusion recovered 1 GT(s) missed by IR.,3,0,2,3,1,2,5
+recall_gain,210402,210402.jpg,5.797147142857143,Fusion recovered 1 GT(s) missed by IR.,4,1,1,5,0,0,5
+recall_gain,210415,210415.jpg,5.79689,Fusion recovered 1 GT(s) missed by IR.,5,1,1,6,1,0,6
+recall_gain,200301,200301.jpg,5.79531,Fusion recovered 1 GT(s) missed by IR.,0,0,1,1,0,0,1
+recall_gain,260344,260344.jpg,5.79179,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,230341,230341.jpg,5.79,Fusion recovered 1 GT(s) missed by IR.,1,0,2,2,0,1,3
+recall_gain,260439,260439.jpg,5.78996,Fusion recovered 1 GT(s) missed by IR.,1,2,1,2,4,0,2
+recall_gain,260272,260272.jpg,5.7788,Fusion recovered 1 GT(s) missed by IR.,3,1,1,4,2,0,4
+recall_gain,260438,260438.jpg,5.75502,Fusion recovered 1 GT(s) missed by IR.,3,0,2,4,1,1,5
+recall_gain,240155,240155.jpg,5.75361,Fusion recovered 1 GT(s) missed by IR.,2,1,1,3,1,0,3
+recall_gain,260253,260253.jpg,5.75244,Fusion recovered 1 GT(s) missed by IR.,0,0,1,1,0,0,1
+recall_gain,190112,190112.jpg,5.74458,Fusion recovered 1 GT(s) missed by IR.,3,0,1,4,0,0,4
+recall_gain,200092,200092.jpg,5.7429,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,2,0,3
+recall_gain,230048,230048.jpg,5.71692,Fusion recovered 1 GT(s) missed by IR.,4,1,2,5,2,1,6
+recall_gain,200283,200283.jpg,5.698885714285714,Fusion recovered 1 GT(s) missed by IR.,1,2,1,2,2,0,2
+recall_gain,220348,220348.jpg,5.69858,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,190710,190710.jpg,5.69838,Fusion recovered 1 GT(s) missed by IR.,5,0,1,6,0,0,6
+recall_gain,240236,240236.jpg,5.69571,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,1,0,2
+recall_gain,210374,210374.jpg,5.684552857142857,Fusion recovered 1 GT(s) missed by IR.,2,1,1,3,0,0,3
+recall_gain,240361,240361.jpg,5.6818,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,230038,230038.jpg,5.68106,Fusion recovered 1 GT(s) missed by IR.,5,1,1,6,1,0,6
+recall_gain,220102,220102.jpg,5.67709,Fusion recovered 1 GT(s) missed by IR.,3,1,1,4,0,0,4
+recall_gain,220212,220212.jpg,5.64896,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,1,0,2
+recall_gain,200230,200230.jpg,5.64768,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,2,0,2
+recall_gain,220358,220358.jpg,5.6355699999999995,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,190822,190822.jpg,5.63222,Fusion recovered 1 GT(s) missed by IR.,5,0,1,6,0,0,6
+recall_gain,210112,210112.jpg,5.62998,Fusion recovered 1 GT(s) missed by IR.,2,1,1,3,0,0,3
+recall_gain,230250,230250.jpg,5.62804,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,220333,220333.jpg,5.627514285714286,Fusion recovered 1 GT(s) missed by IR.,0,1,1,1,0,0,1
+recall_gain,220290,220290.jpg,5.622883333333333,Fusion recovered 1 GT(s) missed by IR.,2,0,1,2,0,1,3
+recall_gain,210386,210386.jpg,5.61853,Fusion recovered 1 GT(s) missed by IR.,5,0,1,6,0,0,6
+recall_gain,210259,210259.jpg,5.597892857142857,Fusion recovered 1 GT(s) missed by IR.,5,1,1,5,0,1,6
+recall_gain,210029,210029.jpg,5.59139,Fusion recovered 1 GT(s) missed by IR.,1,0,2,2,0,1,3
+recall_gain,220378,220378.jpg,5.5453,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,220107,220107.jpg,5.53887,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,190210,190210.jpg,5.538861428571429,Fusion recovered 1 GT(s) missed by IR.,6,2,2,7,1,1,8
+recall_gain,200098,200098.jpg,5.53509,Fusion recovered 1 GT(s) missed by IR.,1,1,2,2,2,1,3
+recall_gain,240342,240342.jpg,5.528565,Fusion recovered 1 GT(s) missed by IR.,3,1,1,4,2,0,4
+recall_gain,230280,230280.jpg,5.52653,Fusion recovered 1 GT(s) missed by IR.,5,0,2,6,0,1,7
+recall_gain,240047,240047.jpg,5.51666,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,210153,210153.jpg,5.5062,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,240497,240497.jpg,5.48812,Fusion recovered 1 GT(s) missed by IR.,2,1,1,3,1,0,3
+recall_gain,220259,220259.jpg,5.46359,Fusion recovered 1 GT(s) missed by IR.,2,1,2,3,1,1,4
+recall_gain,200312,200312.jpg,5.4633964285714285,Fusion recovered 1 GT(s) missed by IR.,2,0,1,2,1,1,3
+recall_gain,190183,190183.jpg,5.46202,Fusion recovered 1 GT(s) missed by IR.,2,1,2,3,2,1,4
+recall_gain,220156,220156.jpg,5.457573333333333,Fusion recovered 1 GT(s) missed by IR.,2,1,1,3,0,0,3
+recall_gain,220312,220312.jpg,5.45014,Fusion recovered 1 GT(s) missed by IR.,5,1,1,6,1,0,6
+recall_gain,230354,230354.jpg,5.450060909090909,Fusion recovered 1 GT(s) missed by IR.,4,1,1,5,0,0,5
+recall_gain,240089,240089.jpg,5.44863,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,230068,230068.jpg,5.4456114285714285,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,0,0,2
+recall_gain,220193,220193.jpg,5.44432,Fusion recovered 1 GT(s) missed by IR.,3,0,1,4,0,0,4
+recall_gain,230418,230418.jpg,5.43971,Fusion recovered 1 GT(s) missed by IR.,3,1,1,4,0,0,4
+recall_gain,260332,260332.jpg,5.4361814285714285,Fusion recovered 1 GT(s) missed by IR.,2,1,1,3,0,0,3
+recall_gain,200160,200160.jpg,5.42828,Fusion recovered 1 GT(s) missed by IR.,3,1,1,4,2,0,4
+recall_gain,220027,220027.jpg,5.40703,Fusion recovered 1 GT(s) missed by IR.,0,1,1,1,1,0,1
+recall_gain,220262,220262.jpg,5.39935,Fusion recovered 1 GT(s) missed by IR.,4,0,1,4,1,1,5
+recall_gain,210127,210127.jpg,5.390795,Fusion recovered 1 GT(s) missed by IR.,2,1,1,3,0,0,3
+recall_gain,240364,240364.jpg,5.37583,Fusion recovered 1 GT(s) missed by IR.,0,1,1,1,0,0,1
+recall_gain,190466,190466.jpg,5.35419,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,260126,260126.jpg,5.352991428571428,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,1,0,3
+recall_gain,230024,230024.jpg,5.343405,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,200251,200251.jpg,5.342705714285715,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,2,0,2
+recall_gain,220071,220071.jpg,5.342674285714286,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,1,0,2
+recall_gain,240327,240327.jpg,5.33932,Fusion recovered 1 GT(s) missed by IR.,0,0,1,1,1,0,1
+recall_gain,230118,230118.jpg,5.332905714285714,Fusion recovered 1 GT(s) missed by IR.,4,1,1,5,1,0,5
+recall_gain,210209,210209.jpg,5.32912,Fusion recovered 1 GT(s) missed by IR.,5,0,1,6,0,0,6
+recall_gain,200139,200139.jpg,5.325925,Fusion recovered 1 GT(s) missed by IR.,4,1,2,5,5,1,6
+recall_gain,260058,260058.jpg,5.325765,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,190777,190777.jpg,5.32474,Fusion recovered 1 GT(s) missed by IR.,7,0,1,7,0,1,8
+recall_gain,200075,200075.jpg,5.318934285714286,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,200305,200305.jpg,5.31842,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,2,0,3
+recall_gain,240480,240480.jpg,5.314851428571429,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,260502,260502.jpg,5.311967142857143,Fusion recovered 1 GT(s) missed by IR.,1,0,2,2,0,1,3
+recall_gain,230304,230304.jpg,5.311035625,Fusion recovered 1 GT(s) missed by IR.,0,1,1,1,0,0,1
+recall_gain,200005,200005.jpg,5.310112857142857,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,220096,220096.jpg,5.306038571428571,Fusion recovered 1 GT(s) missed by IR.,8,1,1,9,1,0,9
+recall_gain,210021,210021.jpg,5.305242857142857,Fusion recovered 1 GT(s) missed by IR.,1,1,2,2,1,1,3
+recall_gain,220090,220090.jpg,5.296614285714286,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,260329,260329.jpg,5.2932757142857145,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,230262,230262.jpg,5.2922771428571425,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,200102,200102.jpg,5.290985714285714,Fusion recovered 1 GT(s) missed by IR.,0,0,1,1,0,0,1
+recall_gain,260305,260305.jpg,5.290311428571429,Fusion recovered 1 GT(s) missed by IR.,2,2,1,3,2,0,3
+recall_gain,230301,230301.jpg,5.29021,Fusion recovered 1 GT(s) missed by IR.,0,1,1,1,1,0,1
+recall_gain,230158,230158.jpg,5.286255714285715,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,210212,210212.jpg,5.284175,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,1,0,2
+recall_gain,230406,230406.jpg,5.284171428571429,Fusion recovered 1 GT(s) missed by IR.,0,0,1,1,0,0,1
+recall_gain,190492,190492.jpg,5.27868,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,210098,210098.jpg,5.274472857142857,Fusion recovered 1 GT(s) missed by IR.,1,1,2,2,0,1,3
+recall_gain,200269,200269.jpg,5.271115714285714,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,2,0,2
+recall_gain,190190,190190.jpg,5.2703,Fusion recovered 1 GT(s) missed by IR.,7,0,1,8,0,0,8
+recall_gain,220361,220361.jpg,5.26967,Fusion recovered 1 GT(s) missed by IR.,3,0,1,4,0,0,4
+recall_gain,210011,210011.jpg,5.2691614285714286,Fusion recovered 1 GT(s) missed by IR.,2,0,2,3,0,1,4
+recall_gain,200237,200237.jpg,5.265992857142857,Fusion recovered 1 GT(s) missed by IR.,1,1,2,2,2,1,3
+recall_gain,200216,200216.jpg,5.264525714285714,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,210206,210206.jpg,5.263257142857142,Fusion recovered 1 GT(s) missed by IR.,0,0,1,1,0,0,1
+recall_gain,200100,200100.jpg,5.261721428571429,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,2,0,2
+recall_gain,200242,200242.jpg,5.259845,Fusion recovered 1 GT(s) missed by IR.,4,0,2,5,1,1,6
+recall_gain,220070,220070.jpg,5.259414285714286,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,1,0,2
+recall_gain,210137,210137.jpg,5.25764,Fusion recovered 1 GT(s) missed by IR.,0,0,1,1,0,0,1
+recall_gain,200265,200265.jpg,5.255254285714286,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,200029,200029.jpg,5.254668571428572,Fusion recovered 1 GT(s) missed by IR.,4,0,1,5,2,0,5
+recall_gain,220131,220131.jpg,5.25331,Fusion recovered 1 GT(s) missed by IR.,0,0,1,1,0,0,1
+recall_gain,260195,260195.jpg,5.251105714285714,Fusion recovered 1 GT(s) missed by IR.,2,0,1,2,5,1,3
+recall_gain,260234,260234.jpg,5.2510385714285714,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,190460,190460.jpg,5.2507142857142854,Fusion recovered 1 GT(s) missed by IR.,2,0,1,2,0,1,3
+recall_gain,190093,190093.jpg,5.2502128571428575,Fusion recovered 1 GT(s) missed by IR.,2,0,1,2,3,1,3
+recall_gain,190730,190730.jpg,5.248372857142857,Fusion recovered 1 GT(s) missed by IR.,5,0,1,6,0,0,6
+recall_gain,200208,200208.jpg,5.247425555555556,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,2,0,3
+recall_gain,230452,230452.jpg,5.246841428571429,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,1,0,2
+recall_gain,230466,230466.jpg,5.2467500000000005,Fusion recovered 1 GT(s) missed by IR.,1,1,2,2,0,1,3
+recall_gain,240252,240252.jpg,5.246536666666667,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,200297,200297.jpg,5.24587,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,1,0,3
+recall_gain,220309,220309.jpg,5.245068571428572,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,1,0,2
+recall_gain,210336,210336.jpg,5.244034285714286,Fusion recovered 1 GT(s) missed by IR.,5,0,1,6,1,0,6
+recall_gain,230089,230089.jpg,5.2439375,Fusion recovered 1 GT(s) missed by IR.,2,1,1,3,0,0,3
+recall_gain,200044,200044.jpg,5.243551428571428,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,200061,200061.jpg,5.242747142857143,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,2,0,2
+recall_gain,240277,240277.jpg,5.239213333333334,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,1,0,3
+recall_gain,210200,210200.jpg,5.236661428571429,Fusion recovered 1 GT(s) missed by IR.,4,0,1,5,0,0,5
+recall_gain,240491,240491.jpg,5.236527142857143,Fusion recovered 1 GT(s) missed by IR.,2,0,2,3,0,1,4
+recall_gain,210096,210096.jpg,5.236173333333333,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,240367,240367.jpg,5.2361,Fusion recovered 1 GT(s) missed by IR.,1,1,1,2,1,0,2
+recall_gain,240022,240022.jpg,5.23585,Fusion recovered 1 GT(s) missed by IR.,0,0,2,1,0,1,2
+recall_gain,210239,210239.jpg,5.235353333333333,Fusion recovered 1 GT(s) missed by IR.,3,1,1,4,1,0,4
+recall_gain,240394,240394.jpg,5.234775714285714,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,1,0,3
+recall_gain,240018,240018.jpg,5.23373,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,0,0,2
+recall_gain,210123,210123.jpg,5.231358571428571,Fusion recovered 1 GT(s) missed by IR.,4,1,1,5,0,0,5
+recall_gain,260019,260019.jpg,5.230628181818182,Fusion recovered 1 GT(s) missed by IR.,3,1,1,4,1,0,4
+recall_gain,190818,190818.jpg,5.2300828571428575,Fusion recovered 1 GT(s) missed by IR.,4,1,2,5,1,1,6
+recall_gain,210106,210106.jpg,5.229425714285714,Fusion recovered 1 GT(s) missed by IR.,5,0,4,6,2,3,9
+recall_gain,220186,220186.jpg,5.227911428571429,Fusion recovered 1 GT(s) missed by IR.,3,0,1,4,1,0,4
+recall_gain,240483,240483.jpg,5.22719,Fusion recovered 1 GT(s) missed by IR.,0,2,1,1,2,0,1
+recall_gain,220066,220066.jpg,5.2261677777777775,Fusion recovered 1 GT(s) missed by IR.,0,1,1,1,1,0,1
+recall_gain,190470,190470.jpg,5.2257171428571425,Fusion recovered 1 GT(s) missed by IR.,4,0,1,5,0,0,5
+recall_gain,200045,200045.jpg,5.22361,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,220324,220324.jpg,5.22279,Fusion recovered 1 GT(s) missed by IR.,4,1,1,5,1,0,5
+recall_gain,220087,220087.jpg,5.2193483333333335,Fusion recovered 1 GT(s) missed by IR.,2,1,2,3,1,1,4
+recall_gain,240227,240227.jpg,5.219265,Fusion recovered 1 GT(s) missed by IR.,1,0,1,2,1,0,2
+recall_gain,200089,200089.jpg,5.21677,Fusion recovered 1 GT(s) missed by IR.,0,0,2,1,1,1,2
+recall_gain,220120,220120.jpg,5.216184285714286,Fusion recovered 1 GT(s) missed by IR.,7,0,1,8,0,0,8
+recall_gain,220213,220213.jpg,5.215238571428571,Fusion recovered 1 GT(s) missed by IR.,3,1,2,4,0,1,5
+recall_gain,240092,240092.jpg,5.213281666666667,Fusion recovered 1 GT(s) missed by IR.,3,0,1,4,0,0,4
+recall_gain,210043,210043.jpg,5.212442222222222,Fusion recovered 1 GT(s) missed by IR.,4,0,1,5,0,0,5
+recall_gain,220055,220055.jpg,5.210229090909091,Fusion recovered 1 GT(s) missed by IR.,3,0,1,4,1,0,4
+recall_gain,220360,220360.jpg,5.207035833333333,Fusion recovered 1 GT(s) missed by IR.,3,1,2,4,0,1,5
+recall_gain,190415,190415.jpg,5.206091428571429,Fusion recovered 1 GT(s) missed by IR.,2,0,1,3,0,0,3
+recall_gain,240126,240126.jpg,5.20478,Fusion recovered 1 GT(s) missed by IR.,3,0,1,4,3,0,4
+stronger_confidence,230046,230046.jpg,4.17485,Fusion confidence improved on 1 GT(s).,3,1,0,3,1,0,3
+stronger_confidence,260379,260379.jpg,3.58295,Fusion confidence improved on 1 GT(s).,4,0,0,4,1,0,4
+stronger_confidence,230190,230190.jpg,3.5392500000000005,Fusion confidence improved on 1 GT(s).,2,1,0,2,3,0,2
+stronger_confidence,220174,220174.jpg,3.39745,Fusion confidence improved on 1 GT(s).,6,1,1,6,0,1,7
+stronger_confidence,230364,230364.jpg,3.2887499999999994,Fusion confidence improved on 1 GT(s).,4,0,0,4,1,0,4
+stronger_confidence,230407,230407.jpg,3.20595,Fusion confidence improved on 1 GT(s).,3,0,0,3,1,0,3
+stronger_confidence,210307,210307.jpg,3.0997999999999997,Fusion confidence improved on 1 GT(s).,2,0,0,2,1,0,2
+stronger_confidence,190017,190017.jpg,3.06725,Fusion confidence improved on 1 GT(s).,4,0,0,4,2,0,4
+stronger_confidence,240211,240211.jpg,3.0104000000000006,Fusion confidence improved on 1 GT(s).,2,0,0,1,0,1,2

@@ -1,0 +1,14 @@
+{
+  "num_images": 3463,
+  "totals": {
+    "ir_tp": 7582,
+    "ir_fp": 410,
+    "ir_fn": 720,
+    "fusion_tp": 7828,
+    "fusion_fp": 2085,
+    "fusion_fn": 474
+  },
+  "num_better_recall": 262,
+  "num_worse_recall": 27,
+  "num_same_recall": 3174
+}

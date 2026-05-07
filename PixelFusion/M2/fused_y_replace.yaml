@@ -1,0 +1,8 @@
+path: /workspace/LLVIP
+
+train: /workspace/LLVIP/llvip_fused_y_replace_train.txt
+val: /workspace/LLVIP/llvip_fused_y_replace_val.txt
+test: /workspace/LLVIP/llvip_fused_y_replace_test.txt
+
+names:
+  0: person

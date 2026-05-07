@@ -1,0 +1,10 @@
+path: /workspace/LLVIP
+
+train: visible/train/images
+val: visible/test/images
+test: visible/test/images
+
+names:
+  0: person
+
+channels: 4
